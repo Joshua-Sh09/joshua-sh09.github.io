@@ -56,3 +56,14 @@
              .section-title {
                text-transform: none;
              }
+
+             details {
+               margin-bottom: 20px;
+             }
+
+             summary {
+               cursor: pointer;
+               color:#f0f0f0;
+               list-style: none;
+             }
+             
