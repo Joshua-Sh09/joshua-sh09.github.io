@@ -70,3 +70,8 @@
              summary::-webkit-details-marker {
                display: none;
              }
+
+             summary::before {
+               content: "▸ ";
+               color: #888; 
+             }
