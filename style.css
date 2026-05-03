@@ -80,3 +80,15 @@
                background: #f0f0f0;
                color:#111;
              }
+
+             footer {
+               margin-top: 100px;
+               padding-bottom: 40px;
+               font-size: 0.9em;
+             }
+
+              footer a {
+               margin-right: 20px;
+               color: #888;
+               text-decoration: none;
+              }
