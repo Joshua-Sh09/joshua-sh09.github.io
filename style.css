@@ -66,4 +66,7 @@
                color:#f0f0f0;
                list-style: none;
              }
-             
+
+             summary::-webkit-details-marker {
+               display: none;
+             }
