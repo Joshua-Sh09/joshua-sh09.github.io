@@ -103,6 +103,6 @@
                font-family: 'Courier New', Courier, monospace;
               }
 
-              .post-title {
+              h2.post-title {
                text-transform: none;
               }
