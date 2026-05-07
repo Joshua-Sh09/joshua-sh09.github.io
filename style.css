@@ -102,3 +102,7 @@
               .copyright {
                font-family: 'Courier New', Courier, monospace;
               }
+
+              .post-title {
+               text-transform: none;
+              }
