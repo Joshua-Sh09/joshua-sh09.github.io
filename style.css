@@ -107,8 +107,7 @@
               }
 
               audio {
-                width: 100%;
-                max-width: 100%;
+                width: calc(100% - 40px);
                 display: block;
                 margin: 10px 0;
               }
