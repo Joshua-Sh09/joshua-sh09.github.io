@@ -105,3 +105,8 @@
                font-size: 0.9em;
                text-transform: none; 
               }
+
+              audio {
+                width: 100%;
+                margin: 10px 0;
+              }
