@@ -120,3 +120,14 @@
               footer p {
                 color: #888 !important;
               }
+
+              img {
+                Width: 500px;
+                height: 650px;
+                border-radius: 12px;
+              }
+
+              .date {
+                color: #888;
+                font-size: 13px;
+              }
